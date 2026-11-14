@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+dist/
+*.pdf
+murdle-backup*.json
+murdle-recovery*.json
+murdle-before-restore*.json

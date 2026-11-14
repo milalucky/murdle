@@ -1,0 +1,2152 @@
+{
+  "1": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2
+    }
+  ],
+  "2": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 1
+    }
+  ],
+  "3": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "4": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2
+    }
+  ],
+  "5": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "6": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 0
+    }
+  ],
+  "7": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0
+    }
+  ],
+  "8": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2
+    }
+  ],
+  "9": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1
+    }
+  ],
+  "10": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0
+    }
+  ],
+  "11": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 1
+    }
+  ],
+  "12": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1
+    }
+  ],
+  "13": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 0
+    }
+  ],
+  "14": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "15": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0
+    }
+  ],
+  "16": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "17": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 1
+    }
+  ],
+  "18": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0
+    }
+  ],
+  "19": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1
+    }
+  ],
+  "20": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0
+    }
+  ],
+  "21": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 0
+    }
+  ],
+  "22": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2
+    }
+  ],
+  "23": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1
+    }
+  ],
+  "24": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 0
+    }
+  ],
+  "25": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 0
+    }
+  ],
+  "26": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0
+    }
+  ],
+  "27": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2
+    }
+  ],
+  "28": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "29": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1
+    }
+  ],
+  "30": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2
+    }
+  ],
+  "31": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 1
+    }
+  ],
+  "32": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1
+    }
+  ],
+  "33": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "34": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 0
+    }
+  ],
+  "35": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2
+    }
+  ],
+  "36": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1
+    }
+  ],
+  "37": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2
+    }
+  ],
+  "38": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2
+    }
+  ],
+  "39": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2
+    }
+  ],
+  "40": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "41": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "42": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "43": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2
+    }
+  ],
+  "44": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "45": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0
+    }
+  ],
+  "46": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 0
+    }
+  ],
+  "47": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    }
+  ],
+  "48": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0
+    }
+  ],
+  "49": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2
+    }
+  ],
+  "50": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 1
+    }
+  ],
+  "51": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 2
+    }
+  ],
+  "52": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 1
+    }
+  ],
+  "53": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 2
+    }
+  ],
+  "54": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 3
+    }
+  ],
+  "55": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 3
+    }
+  ],
+  "56": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 2
+    }
+  ],
+  "57": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 3
+    }
+  ],
+  "58": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 0
+    }
+  ],
+  "59": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 2
+    }
+  ],
+  "60": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 3
+    }
+  ],
+  "61": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 0
+    }
+  ],
+  "62": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 2
+    }
+  ],
+  "63": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 3
+    }
+  ],
+  "64": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 3
+    }
+  ],
+  "65": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 3
+    }
+  ],
+  "66": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 2
+    }
+  ],
+  "67": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 1
+    }
+  ],
+  "68": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 2
+    }
+  ],
+  "69": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 2
+    }
+  ],
+  "70": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 3,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 1,
+      "motives": 1
+    }
+  ],
+  "71": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 3
+    }
+  ],
+  "72": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 3
+    }
+  ],
+  "73": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 1,
+      "motives": 1
+    }
+  ],
+  "74": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 3,
+      "motives": 0
+    }
+  ],
+  "75": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 2
+    }
+  ],
+  "76": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 1
+    }
+  ],
+  "77": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 1
+    }
+  ],
+  "78": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 1
+    }
+  ],
+  "79": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 1,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 3
+    }
+  ],
+  "80": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 2
+    }
+  ],
+  "81": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 0
+    }
+  ],
+  "82": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 2
+    }
+  ],
+  "83": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 1,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 2
+    }
+  ],
+  "84": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 1,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 3,
+      "motives": 0
+    }
+  ],
+  "85": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 0
+    }
+  ],
+  "86": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 3,
+      "motives": 1
+    }
+  ],
+  "87": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 1
+    }
+  ],
+  "88": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 1
+    }
+  ],
+  "89": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 1
+    }
+  ],
+  "90": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 0
+    }
+  ],
+  "91": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 2
+    }
+  ],
+  "92": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 0
+    }
+  ],
+  "93": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 3
+    },
+    {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 1
+    },
+    {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 0
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 2
+    }
+  ],
+  "94": [
+    {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 3
+    }
+  ],
+  "95": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 1
+    }
+  ],
+  "96": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 3
+    }
+  ],
+  "97": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 3
+    }
+  ],
+  "98": [
+    {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 2
+    },
+    {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 3
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 1
+    }
+  ],
+  "99": [
+    {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 0
+    },
+    {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 2
+    },
+    {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 1
+    },
+    {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 3
+    }
+  ],
+  "100": [
+    {
+      "suspects": 0,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 1
+    },
+    {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 0
+    },
+    {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 2
+    },
+    {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 3
+    }
+  ]
+}
