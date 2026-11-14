@@ -1,5 +1,7 @@
 # Murdle · Detective notebook
 
+[Открыть сайт](https://milalucky.github.io/murdle/) · [Публичный репозиторий](https://github.com/milalucky/murdle)
+
 Личный статический блокнот для двух детективов. Интерфейс на русском, названия вариантов Volume 1 — на английском. HTML, CSS и JavaScript без зависимостей и без серверной базы.
 
 ## Что работает
@@ -41,7 +43,7 @@ npm run build
 
 Все пути относительные, поэтому поддерживаются и `username.github.io`, и `username.github.io/repository/`. Настройка основана на [официальной инструкции GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
-В этой версии публикация в удалённый репозиторий не выполнялась.
+Основной репозиторий: `milalucky/murdle` (public). GitHub Pages публикуется из ветки `main` через workflow выше.
 
 ## Данные книги и развитие
 
