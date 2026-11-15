@@ -1,0 +1,4932 @@
+[
+  {
+    "id": 1,
+    "displayId": "1.1",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 1,
+    "sourcePages": [
+      1
+    ],
+    "labels": {
+      "suspects": [
+        "Leaf Collector Brown",
+        "Mayor Honey",
+        "Organizer Applebaum"
+      ],
+      "locations": [
+        "The Hidden Grove",
+        "The Nearby Lake",
+        "The Mountain Woods"
+      ],
+      "weapons": [
+        "A Harvest Festival Brochure",
+        "A Pumpkin",
+        "A Collector's Guidebook"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 2
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      95
+    ],
+    "motivesOrderVerified": true,
+    "title": "That's One Way to Emphasize a Warning",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 2,
+    "displayId": "1.2",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 2,
+    "sourcePages": [
+      2
+    ],
+    "labels": {
+      "suspects": [
+        "Corny Cordovan",
+        "Streamer Infrared",
+        "Cryptozoologist Cloud"
+      ],
+      "locations": [
+        "The Parking Lot",
+        "The Long Line",
+        "The Ticket Booth"
+      ],
+      "weapons": [
+        "A Turkey Leg",
+        "Dame Obsidian's Halloween Horror",
+        "Pumpkin Vines"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      95,
+      121
+    ],
+    "motivesOrderVerified": true,
+    "title": "Welcome to the Harvest Festival, Don't Mind the Body",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 3,
+    "displayId": "1.3",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 3,
+    "sourcePages": [
+      3
+    ],
+    "labels": {
+      "suspects": [
+        "Leaf Collector Brown",
+        "Just an Ordinary Scarecrow",
+        "Captain Slate"
+      ],
+      "locations": [
+        "The Food Court",
+        "The Harvest Moon",
+        "The Corn Maze"
+      ],
+      "weapons": [
+        "My Grandfather's Axe",
+        "A Black Widow",
+        "An Elaborate Trap"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      121
+    ],
+    "motivesOrderVerified": true,
+    "title": "A Corny Way To Die",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 4,
+    "displayId": "1.4",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 4,
+    "sourcePages": [
+      4
+    ],
+    "labels": {
+      "suspects": [
+        "Corny Cordovan",
+        "The Pumpkin Man",
+        "Chef Aubergine"
+      ],
+      "locations": [
+        "A Food Truck",
+        "The Big Stage",
+        "The Administration Trailer"
+      ],
+      "weapons": [
+        "A Toxic Blowfish",
+        "A Corn on the Cob",
+        "I Can't Believe It's Not Not Butter"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 2
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      121
+    ],
+    "motivesOrderVerified": true,
+    "title": "Food Courting Death",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 5,
+    "displayId": "1.5",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 5,
+    "sourcePages": [
+      5
+    ],
+    "labels": {
+      "suspects": [
+        "Auditor Gold",
+        "Earl Grey",
+        "Mx. Tangerine"
+      ],
+      "locations": [
+        "The Corn Itself",
+        "The Tower",
+        "The Entrance"
+      ],
+      "weapons": [
+        "Sun Exposure",
+        "A Saxophone",
+        "A Pitchfork"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      121
+    ],
+    "motivesOrderVerified": true,
+    "title": "Murder In The Corn Maze",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 6,
+    "displayId": "1.6",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 6,
+    "sourcePages": [
+      6
+    ],
+    "labels": {
+      "suspects": [
+        "A Red Hot Couple",
+        "Uncle Midnight",
+        "Corny The Cob"
+      ],
+      "locations": [
+        "The Lowest Seat",
+        "The Long Line",
+        "The Highest Seat"
+      ],
+      "weapons": [
+        "Deadly Cotton Candy",
+        "A Stuffed Cob",
+        "A Stale Churro"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      121
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Wheel Of Life And Death",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 7,
+    "displayId": "1.7",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 7,
+    "sourcePages": [
+      7
+    ],
+    "labels": {
+      "suspects": [
+        "Tourist Tulip",
+        "Mx. Tangerine",
+        "Streamer Infrared"
+      ],
+      "locations": [
+        "The Dead Patch",
+        "The Scarecrow",
+        "The Mutant Rows"
+      ],
+      "weapons": [
+        "A Carving Knife",
+        "A Swarm Of Locusts",
+        "A Scythe"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      121,
+      122
+    ],
+    "motivesOrderVerified": true,
+    "title": "Cutting Through the Corn",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 8,
+    "displayId": "1.8",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 9,
+    "sourcePages": [
+      8,
+      9
+    ],
+    "labels": {
+      "suspects": [
+        "Cryptozoologist Cloud",
+        "Organizer Applebaum",
+        "Leaf Collector Brown"
+      ],
+      "locations": [
+        "The Corn Maze",
+        "The Food Court",
+        "The Administration Trailer"
+      ],
+      "weapons": [
+        "The Skull Of Eseth",
+        "A Poisonous Dart",
+        "Poisoned Apple Cider"
+      ],
+      "motives": [
+        "For Glory, Sweet Glory",
+        "To Ruin the Harvest Festival",
+        "To Keep Anybody from Winning"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 1,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 2,
+        "motives": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 0,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      122
+    ],
+    "motivesOrderVerified": true,
+    "title": "The True Identity Of Pumpkin Man!",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards",
+    "sourceNote": "The printed table says the big stage, which is absent from this case. The final answer and available location identify the administration trailer."
+  },
+  {
+    "id": 9,
+    "displayId": "2.1",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 11,
+    "sourcePages": [
+      10,
+      11
+    ],
+    "labels": {
+      "suspects": [
+        "Father Mango",
+        "Dame Obsidian",
+        "Earl Grey",
+        "Insurance Agent Isabelline"
+      ],
+      "locations": [
+        "Obsidian Manor",
+        "The New Development",
+        "The Ancient Ruins",
+        "The Chapel"
+      ],
+      "weapons": [
+        "A Newspaper",
+        "Red Yarn",
+        "Poisoned Tea",
+        "Lightning"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 2
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      122
+    ],
+    "motivesOrderVerified": true,
+    "title": "How Many Murders Could Happen in Such a Nice Little Village?",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 10,
+    "displayId": "2.2",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 13,
+    "sourcePages": [
+      12,
+      13
+    ],
+    "labels": {
+      "suspects": [
+        "Gardener Greenthumb",
+        "Superfan Smoky",
+        "Earl Grey",
+        "Woodsman Veridian"
+      ],
+      "locations": [
+        "Her Great Big House",
+        "The Sprawling Grounds",
+        "The Hedge Maze",
+        "The Driveway"
+      ],
+      "weapons": [
+        "A Human Skull",
+        "Ten Rich Bozos",
+        "My Grandfather's Other Axe",
+        "A Carbon Monoxide Detector"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      122,
+      123
+    ],
+    "motivesOrderVerified": true,
+    "title": "Murder In The Obsidian Mansion",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 11,
+    "displayId": "2.3",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 15,
+    "sourcePages": [
+      14,
+      15
+    ],
+    "labels": {
+      "suspects": [
+        "Dame Obsidian",
+        "Double Doctor Dandelion",
+        "Barrister Bluish",
+        "Ex-Husband Earthtone"
+      ],
+      "locations": [
+        "The Library",
+        "The Biggest Bedroom",
+        "The Basement",
+        "The Upstairs Balcony"
+      ],
+      "weapons": [
+        "A Flowerpot",
+        "A Poisoned Candle",
+        "A Ship In A Bottle",
+        "The Skull Of Nasem"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      123
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Crime Of Butlercide",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 12,
+    "displayId": "2.4",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 17,
+    "sourcePages": [
+      16,
+      17
+    ],
+    "labels": {
+      "suspects": [
+        "Crime Queen Caramel",
+        "Chairman Chalk",
+        "Agent Ink",
+        "Bookie-Winner Gainsboro"
+      ],
+      "locations": [
+        "The Fireplace",
+        "The Bookshelves",
+        "The Locked Chest",
+        "The Writing Desk"
+      ],
+      "weapons": [
+        "Mystery In Murdle Earth",
+        "The Thought Of The Lily",
+        "How I Murdered My Husband",
+        "A Poison Primer"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 2
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      123
+    ],
+    "motivesOrderVerified": true,
+    "title": "Death In The Dame's Library",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 13,
+    "displayId": "2.5",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 19,
+    "sourcePages": [
+      18,
+      19
+    ],
+    "labels": {
+      "suspects": [
+        "The Demon King",
+        "The Hunky Barbarian",
+        "The Big Green Ogre",
+        "Wizard Brownbeard"
+      ],
+      "locations": [
+        "The Quaint Village",
+        "The Evil Castle",
+        "The New Ruins",
+        "The Coffee Shop"
+      ],
+      "weapons": [
+        "The Sword Of Power",
+        "The Ring Of Illusion",
+        "The Goblet Of The King",
+        "The Rock Of Hitting"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      123,
+      124
+    ],
+    "motivesOrderVerified": true,
+    "title": "Murder In A Picaro Novel",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 14,
+    "displayId": "2.6",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 21,
+    "sourcePages": [
+      20,
+      21
+    ],
+    "labels": {
+      "suspects": [
+        "Backpacker Bisque",
+        "Woodsman Veridian",
+        "Manservant Brownstone",
+        "Janitor Salmon"
+      ],
+      "locations": [
+        "The Old Rusty Boiler",
+        "The Rotten Shelves",
+        "The Wet Corner",
+        "The Hole"
+      ],
+      "weapons": [
+        "A Fire Poker",
+        "A Rusty Saw",
+        "Karate Hands",
+        "An Exposed Wire"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 3
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 3
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      124
+    ],
+    "motivesOrderVerified": true,
+    "title": "Horror In The Basement",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 15,
+    "displayId": "2.7",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 23,
+    "sourcePages": [
+      22,
+      23
+    ],
+    "labels": {
+      "suspects": [
+        "Inspector Irratino",
+        "The Shadow Hat Man",
+        "The Demon King",
+        "Dame Obsidian"
+      ],
+      "locations": [
+        "The Planes Of Hell",
+        "The Ash Of Death",
+        "The Bones Of Hope",
+        "A Laundromat"
+      ],
+      "weapons": [
+        "A Flaming Sword",
+        "The Ring of Expensiveness",
+        "The Shield of Destiny",
+        "A Lucky Slingshot"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 3,
+        "weapons": 2,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      124
+    ],
+    "motivesOrderVerified": true,
+    "title": "In The Realm Of The Demon King",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 16,
+    "displayId": "2.8",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 26,
+    "sourcePages": [
+      24,
+      26
+    ],
+    "labels": {
+      "locations": [
+        "The Sprawling Grounds",
+        "The Library",
+        "The Attic",
+        "The Basement"
+      ],
+      "suspects": [
+        "Gardener Greenthumb",
+        "Ex-Husband Earthtone",
+        "Dame Obsidian",
+        "Crime Queen Caramel"
+      ],
+      "weapons": [
+        "Carbon Monoxide",
+        "A Big Monster Costume",
+        "It Was All a Dream",
+        "Bribing Everybody to Say They Saw Ghosts"
+      ],
+      "motives": [
+        "Just bad safety practices",
+        "To scare people away from the property",
+        "Immersive theater",
+        "Book research"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 1,
+        "motives": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 3,
+        "motives": 0
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 3
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 3,
+      "motives": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      124
+    ],
+    "motivesOrderVerified": true,
+    "title": "Clearing The Smoke & Mirrors",
+    "categoryLabels": {
+      "weapons": "Explanations"
+    },
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 17,
+    "displayId": "3.1",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 28,
+    "sourcePages": [
+      27,
+      28
+    ],
+    "labels": {
+      "suspects": [
+        "Fisherman Flamingo",
+        "Admiral Navy",
+        "Captain Marigold",
+        "Sailor Aero"
+      ],
+      "locations": [
+        "The Cargo Ship",
+        "The Cruise Ship",
+        "The Rotten Dock",
+        "The Open Ocean"
+      ],
+      "weapons": [
+        "The Steering Wheel",
+        "Rubber Gloves",
+        "An Attack Goose",
+        "Poisoned Rum"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 3,
+        "locations": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 2
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      124,
+      125
+    ],
+    "motivesOrderVerified": true,
+    "title": "Death On The Docks",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 18,
+    "displayId": "3.2",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 30,
+    "sourcePages": [
+      29,
+      30
+    ],
+    "labels": {
+      "suspects": [
+        "Archeologist Ecru",
+        "Silverton The Legend",
+        "Astrologer Azure",
+        "Insurance Agent Isabelline"
+      ],
+      "locations": [
+        "The Open Ocean",
+        "Lifeboats",
+        "The Crew Cabin",
+        "The Bow"
+      ],
+      "weapons": [
+        "A Flare Gun",
+        "An Exploding Seagull",
+        "A History of Sea Legends",
+        "Nunchuks"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 0,
+        "locations": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 1,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      125
+    ],
+    "motivesOrderVerified": true,
+    "title": "Feathers & Rust: A Cargo Ship Killing",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 19,
+    "displayId": "3.3",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 32,
+    "sourcePages": [
+      31,
+      32
+    ],
+    "labels": {
+      "suspects": [
+        "Baron Maroon",
+        "Castaway Sable",
+        "Mr. Tuxedo",
+        "Surfer Cinnamon"
+      ],
+      "locations": [
+        "An Iceberg",
+        "A Teeny, Tiny Island",
+        "The Deep Blue Sea",
+        "Amaranth Island"
+      ],
+      "weapons": [
+        "A Life Preserver",
+        "The Legendary Marot",
+        "A Coconut",
+        "A Single Sapphire"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      125
+    ],
+    "motivesOrderVerified": true,
+    "title": "Look Out For Murder!",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 20,
+    "displayId": "3.4",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 34,
+    "sourcePages": [
+      33,
+      34
+    ],
+    "labels": {
+      "locations": [
+        "The Ghost Ship",
+        "The Giant Whirlpool",
+        "The Jagged Rocks",
+        "A Life Raft"
+      ],
+      "suspects": [
+        "Admiral Navy",
+        "Skipper Cardamom",
+        "Cryptozoologist Cloud",
+        "The Creature From The Deep Blue Sea"
+      ],
+      "weapons": [
+        "Giant Teeth",
+        "A Rotten Oar",
+        "A Spooky Fog",
+        "A Jack-O-Lantern"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 3,
+        "locations": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      125
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Legend of the Beast from the Deep Blue Sea",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 21,
+    "displayId": "3.5",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 36,
+    "sourcePages": [
+      35,
+      36
+    ],
+    "labels": {
+      "suspects": [
+        "Insurance Agent Isabelline",
+        "Baron Maroon",
+        "Archeologist Ecru",
+        "Captain Marigold"
+      ],
+      "locations": [
+        "The Lighthouse",
+        "The Dead Woods",
+        "The Generator",
+        "A Secluded Cove"
+      ],
+      "weapons": [
+        "The Skull of Rewe",
+        "A Fishing Net",
+        "A Brass Telescope",
+        "A Distress Beacon"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      125,
+      126
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Island Of Even Worse Dreams",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 22,
+    "displayId": "3.6",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 38,
+    "sourcePages": [
+      37,
+      38
+    ],
+    "labels": {
+      "locations": [
+        "The Crow's Nest",
+        "The Lower Deck",
+        "The Bowels Of The Ship",
+        "The Upper Deck"
+      ],
+      "suspects": [
+        "Captain Marigold",
+        "First Mate Melon",
+        "Sailor Aero",
+        "Nobody"
+      ],
+      "weapons": [
+        "A Fishing Spear",
+        "A Fish Bone",
+        "The Steering Wheel",
+        "Something Jagged"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 2
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      126
+    ],
+    "motivesOrderVerified": true,
+    "title": "How Can You Be Bored When There's a Murder on Board?",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 23,
+    "displayId": "3.7",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 40,
+    "sourcePages": [
+      39,
+      40
+    ],
+    "labels": {
+      "locations": [
+        "A Pile Of Metal",
+        "Giant Gears",
+        "A Giant Furnace",
+        "A Big Hissing Thingie"
+      ],
+      "suspects": [
+        "Sailor Aero",
+        "Stowaway Sable",
+        "Ski Bum Cinnamon",
+        "The Creature From The Deep Blue Sea"
+      ],
+      "weapons": [
+        "Seawater Sludge",
+        "A Block of Ice",
+        "A Fire Extinguisher",
+        "The Incinerator"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 3,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      126
+    ],
+    "motivesOrderVerified": true,
+    "title": "Death In The Bowels",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 24,
+    "displayId": "3.8",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 42,
+    "sourcePages": [
+      41,
+      42
+    ],
+    "labels": {
+      "suspects": [
+        "Insurance Agent Isabelline",
+        "Captain Marigold",
+        "First Mate Melon",
+        "Mr. Tuxedo"
+      ],
+      "locations": [
+        "The Big Rock",
+        "The Endless Ocean",
+        "The Single Coconut Tree",
+        "The Beach"
+      ],
+      "weapons": [
+        "A Coconut",
+        "A Chunk of Ice",
+        "The Skull of Rewe",
+        "A Crab"
+      ],
+      "motives": [
+        "Because they hungered for human flesh",
+        "To cover up a huge mistake",
+        "In service to an ancient god",
+        "Sea sickness"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 0,
+        "motives": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 3,
+        "motives": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 2,
+        "motives": 0
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      126,
+      127
+    ],
+    "motivesOrderVerified": true,
+    "title": "Lonely On The Lone Island",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 25,
+    "displayId": "4.1",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 43,
+    "sourcePages": [
+      43
+    ],
+    "labels": {
+      "suspects": [
+        "Major Red",
+        "Viscount Eminence",
+        "President White"
+      ],
+      "locations": [
+        "The Screaming Forest",
+        "St. Lupine (Officially)",
+        "The Madding Mountains"
+      ],
+      "weapons": [
+        "The Convocation Corps",
+        "The Holy Drakonian Army",
+        "The People's Army"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      127
+    ],
+    "motivesOrderVerified": true,
+    "title": "Diplomatic Drop-In",
+    "categoryLabels": {
+      "weapons": "Armies"
+    },
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 26,
+    "displayId": "4.2",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 44,
+    "sourcePages": [
+      44
+    ],
+    "labels": {
+      "suspects": [
+        "Comrade Champagne",
+        "Sergeant Lime",
+        "Cosmonaut Bluski"
+      ],
+      "locations": [
+        "The Kitchen Complex",
+        "The Dining Hall",
+        "The Balcony"
+      ],
+      "weapons": [
+        "An Enormous Painting",
+        "A Red Banana",
+        "A Piano"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      127
+    ],
+    "motivesOrderVerified": true,
+    "title": "New Flag, Old Manor, Even Older Crime",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 27,
+    "displayId": "4.3",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 45,
+    "sourcePages": [
+      45
+    ],
+    "labels": {
+      "suspects": [
+        "The Ghostly Dowager",
+        "The Iron Tsar",
+        "Major Red"
+      ],
+      "locations": [
+        "The Tower",
+        "The Moon",
+        "The Viscount's Bedchamber"
+      ],
+      "weapons": [
+        "A Killer Snake",
+        "A Bloodstained Rose",
+        "The Skull of Dennivet"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 2
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      127,
+      128
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Dream Of Major Red",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 28,
+    "displayId": "4.4",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 46,
+    "sourcePages": [
+      46
+    ],
+    "labels": {
+      "suspects": [
+        "Private Perriwinkle",
+        "Former Governor Lead",
+        "Insurance Agent Isabelline"
+      ],
+      "locations": [
+        "The Trenches",
+        "No Man's Land",
+        "The Western Citadel"
+      ],
+      "weapons": [
+        "A Sacred Amulet",
+        "A Tracking Device",
+        "The Big Red Book"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      128
+    ],
+    "motivesOrderVerified": true,
+    "title": "One Bad Murder Can Ruin A War",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 29,
+    "displayId": "4.5",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 47,
+    "sourcePages": [
+      47
+    ],
+    "labels": {
+      "suspects": [
+        "Tiny Taupe",
+        "Tourist Tulip",
+        "Admiral Navy"
+      ],
+      "locations": [
+        "The Capitol Building",
+        "The Luxury Condominiums",
+        "The Red Bay"
+      ],
+      "weapons": [
+        "A Rock",
+        "A Nuclear Fuel Rod",
+        "The Skull Of Dennivet"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 0
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      128
+    ],
+    "motivesOrderVerified": true,
+    "title": "Death In The Battle For St. Lupine",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 30,
+    "displayId": "4.6",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 48,
+    "sourcePages": [
+      48
+    ],
+    "labels": {
+      "suspects": [
+        "Cultist Xanadu",
+        "Feral Child Olivine",
+        "Backpacker Bisque"
+      ],
+      "locations": [
+        "The Twisting Pass",
+        "The Mysterious Cave",
+        "The High Cliff"
+      ],
+      "weapons": [
+        "A Rock",
+        "A Petrified Heart",
+        "A Fake Treasure Map"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 2
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      128
+    ],
+    "motivesOrderVerified": true,
+    "title": "Murder In The Madding Mountains",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 31,
+    "displayId": "4.7",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 49,
+    "sourcePages": [
+      49
+    ],
+    "labels": {
+      "suspects": [
+        "Creepy Caretaker Carmine",
+        "Skull Collector Bleach",
+        "Stonemason Byzantine"
+      ],
+      "locations": [
+        "The Tower",
+        "The Moat",
+        "The Dungeon"
+      ],
+      "weapons": [
+        "And Then There Was Nun",
+        "An EMF Detector",
+        "The Skull Of Dennivet"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      128,
+      129
+    ],
+    "motivesOrderVerified": true,
+    "title": "Return To Castle Eminence!",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 32,
+    "displayId": "4.8",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 51,
+    "sourcePages": [
+      50,
+      51
+    ],
+    "labels": {
+      "suspects": [
+        "Insurance Agent Isabelline",
+        "President White",
+        "Major Red"
+      ],
+      "locations": [
+        "The Bone Pile",
+        "A Single Branch",
+        "A Helicopter"
+      ],
+      "weapons": [
+        "A Rock",
+        "A Marot Deck",
+        "The Skull Of Dennivet"
+      ],
+      "motives": [
+        "To Retake the Offensive",
+        "As a Tax Deduction",
+        "To Get the Skull"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 2,
+        "motives": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 0,
+        "motives": 2
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      129
+    ],
+    "motivesOrderVerified": true,
+    "title": "Escape From The Castle",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 33,
+    "displayId": "5.1",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 53,
+    "sourcePages": [
+      52,
+      53
+    ],
+    "labels": {
+      "suspects": [
+        "Midnight III",
+        "Baron Maroon",
+        "Comrade Champagne",
+        "Miss Saffron"
+      ],
+      "locations": [
+        "The Jungle Shore",
+        "The Jungle Cruiser",
+        "An Island In The Stream",
+        "The Rapids"
+      ],
+      "weapons": [
+        "A Toxic Blowfish",
+        "A Big Leaf",
+        "A Fishing Spear",
+        "A Fish Knife"
+      ],
+      "motives": [
+        "Because They Messed with Their Research",
+        "For Revenge",
+        "For Self-Righteous Reasons",
+        "They Ruined Their Jungle Cruise"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 0,
+        "motives": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 1,
+        "motives": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 3,
+        "motives": 3
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      129
+    ],
+    "motivesOrderVerified": true,
+    "title": "Cruisin' For A Deadly Bruisin'",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 34,
+    "displayId": "5.2",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 55,
+    "sourcePages": [
+      54,
+      55
+    ],
+    "labels": {
+      "suspects": [
+        "Silverton The Legend",
+        "Feral Child Olivine",
+        "Philologist Flint",
+        "Tourist Tulip"
+      ],
+      "locations": [
+        "The Jungle Temple",
+        "The Deep Vines",
+        "The River",
+        "The Zeppelin"
+      ],
+      "weapons": [
+        "Anti-Malarial Tablets",
+        "An Ancient Text",
+        "A Single Emerald",
+        "A Machete"
+      ],
+      "motives": [
+        "To Get Some Great Photographs",
+        "To Learn What It Was Like to Kill",
+        "To Research a Part",
+        "Because They Didn't Know Better"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 3,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 2,
+        "motives": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 2,
+        "locations": 0,
+        "motives": 0
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      129,
+      130
+    ],
+    "motivesOrderVerified": true,
+    "title": "Cutting Through The Jungle",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 35,
+    "displayId": "5.3",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 57,
+    "sourcePages": [
+      56,
+      57
+    ],
+    "labels": {
+      "locations": [
+        "The Giant Gate",
+        "The Unicursal Maze",
+        "The Entrance Tunnel",
+        "Yet Another Maze"
+      ],
+      "suspects": [
+        "Temple Guard Teal",
+        "Archeologist Ecru",
+        "Dr. Crimson",
+        "Sergeant Lime"
+      ],
+      "weapons": [
+        "A Hammer",
+        "Another Emerald",
+        "A High-Vis Vest",
+        "A Rabid Rat"
+      ],
+      "motives": [
+        "To Get Inside Faster",
+        "Because It Would Be Awesome",
+        "Just Doing Their Job",
+        "For Revenge"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 2,
+        "motives": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      130
+    ],
+    "motivesOrderVerified": true,
+    "title": "At The Mouth Of Death",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 36,
+    "displayId": "5.4",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 59,
+    "sourcePages": [
+      58,
+      59
+    ],
+    "labels": {
+      "suspects": [
+        "Tourist Tulip",
+        "Director Dusty",
+        "Executive Producer Steel",
+        "Art Critic Windsor"
+      ],
+      "locations": [
+        "Lava Pit",
+        "Spike Wall",
+        "Sand Fountain",
+        "Snake Pit"
+      ],
+      "weapons": [
+        "A Golden Key",
+        "A Golden Lock",
+        "A Golden Cup",
+        "Another Ancient Text"
+      ],
+      "motives": [
+        "It was a total accident",
+        "Claustrophobic panic attack",
+        "For money (what else?)",
+        "To get out of this room faster"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 0,
+        "locations": 0,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 1,
+        "motives": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 2,
+        "motives": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 3,
+        "motives": 3
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 2,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      130
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Room You Will Never Escape",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 37,
+    "displayId": "5.5",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 61,
+    "sourcePages": [
+      60,
+      61
+    ],
+    "labels": {
+      "suspects": [
+        "The Amazing Aureolin",
+        "Archeologist Ecru",
+        "Patriarch Porpoise",
+        "Janitor Salmon"
+      ],
+      "locations": [
+        "The Strange Machinery",
+        "The Small Chamber",
+        "The Doorway",
+        "The Wall Hanging"
+      ],
+      "weapons": [
+        "A Jug of Poison",
+        "A Mop",
+        "An 80s Cell Phone",
+        "A First-Aid Kit"
+      ],
+      "motives": [
+        "The ultimate cleanup",
+        "Because they killed her wife",
+        "To protect a secret",
+        "For religious reasons"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 0,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 3,
+        "motives": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 2,
+        "locations": 2,
+        "motives": 0
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      130,
+      131
+    ],
+    "motivesOrderVerified": true,
+    "title": "Into The Depths",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 38,
+    "displayId": "5.6",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 63,
+    "sourcePages": [
+      62,
+      63
+    ],
+    "labels": {
+      "suspects": [
+        "Hack Blaxton",
+        "Archeologist Ecru",
+        "High Alchemist Raven",
+        "Insurance Agent Isabelline"
+      ],
+      "locations": [
+        "The Mine Cart",
+        "The Stone Archway",
+        "The Cliffside",
+        "The Flaming Pits"
+      ],
+      "weapons": [
+        "A Neon Sign",
+        "A Feathered Arrow",
+        "A Ghost Trap",
+        "A Big Gear"
+      ],
+      "motives": [
+        "Thought they were a giant bat",
+        "To cover up an earlier murder",
+        "To test out a murder method",
+        "To reduce her expenses"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 1,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 2,
+        "motives": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 3,
+        "motives": 0
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 3
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 1,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      131
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Mine Train To Destiny/Death",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 39,
+    "displayId": "5.7",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 65,
+    "sourcePages": [
+      64,
+      65
+    ],
+    "labels": {
+      "suspects": [
+        "Feral Child Olivine",
+        "A-List Abalone",
+        "Stonemason Byzantine",
+        "Art Critic Windsor"
+      ],
+      "locations": [
+        "A Sacred Wall",
+        "An Altar",
+        "The Doors",
+        "The Pews"
+      ],
+      "weapons": [
+        "A Stuffed Totem",
+        "A Jar Of Coins",
+        "A Flier For The Seven Skulls Exhibit",
+        "Bound Papyrus"
+      ],
+      "motives": [
+        "Because of the disrespect",
+        "They ruined the aesthetic",
+        "As an audition",
+        "It's what a bird would do"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 0
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      131
+    ],
+    "motivesOrderVerified": true,
+    "title": "Death In The Bloodred Reliquary",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 40,
+    "displayId": "5.8",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 67,
+    "sourcePages": [
+      66,
+      67
+    ],
+    "labels": {
+      "suspects": [
+        "Temple Guard Teal",
+        "Midnight III",
+        "Executive Producer Steel",
+        "Silverton The Legend"
+      ],
+      "locations": [
+        "The Big Stage",
+        "The Enormous Ribbon",
+        "The Jungle Itself",
+        "The Giant Balloon Arch"
+      ],
+      "weapons": [
+        "A Television Camera",
+        "An Ancient Text",
+        "Giant Scissors",
+        "The Skull Of Ot"
+      ],
+      "motives": [
+        "The grand opening of an amusement park",
+        "It was all a mirage",
+        "An ancient blood sacrifice",
+        "An elaborate tax write-off"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 1,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 0,
+        "motives": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 2,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      131,
+      132
+    ],
+    "motivesOrderVerified": true,
+    "title": "Grand Opening, Grand Dying",
+    "categoryLabels": {
+      "motives": "Really going on"
+    },
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 41,
+    "displayId": "6.1",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 69,
+    "sourcePages": [
+      68,
+      69
+    ],
+    "labels": {
+      "locations": [
+        "The Dining Dome",
+        "The Private Forest",
+        "Tekco Tower",
+        "The Holostage"
+      ],
+      "suspects": [
+        "Executive Eggplant",
+        "Vice President Mauve",
+        "Dr. Frankengreen",
+        "CEO Indigo"
+      ],
+      "weapons": [
+        "An Electric Scooter",
+        "An Envelope Of Cash",
+        "A Birth Certificate",
+        "How To Make Money"
+      ],
+      "motives": [
+        "Maybe in someone's head.",
+        "No idea, why? Who's asking?",
+        "Probably in my private collection.",
+        "Who cares? It's a skull!"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 2,
+        "motives": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 0,
+        "motives": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 3,
+        "motives": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 1,
+        "motives": 2
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 2,
+      "locations": 2,
+      "motives": 3
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      132
+    ],
+    "motivesOrderVerified": true,
+    "title": "Making Security Obsolete The Old-Fashioned Way",
+    "categoryLabels": {
+      "motives": "Skull spots"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 42,
+    "displayId": "6.2",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 71,
+    "sourcePages": [
+      70,
+      71
+    ],
+    "labels": {
+      "locations": [
+        "The Bathrooms",
+        "The Ominous Obelisk",
+        "The Penthouse Office",
+        "The Rooftop Garden"
+      ],
+      "suspects": [
+        "Grayscale, Cpa",
+        "Janitor Salmon",
+        "Executive Assistant Olive",
+        "Vice President Mauve"
+      ],
+      "weapons": [
+        "A Bag Of Money",
+        "A Golden Pen",
+        "An 80s Computer",
+        "A Fax Machine"
+      ],
+      "motives": [
+        "Under the mattress",
+        "In a vault of gold coins",
+        "Murdle first editions",
+        "Invest in the metaverse"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 3,
+        "motives": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 1,
+        "motives": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 0,
+        "motives": 3
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      132
+    ],
+    "motivesOrderVerified": true,
+    "title": "Headquarters Is Short for Beheaded and Quartered",
+    "categoryLabels": {
+      "motives": "Their money"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 43,
+    "displayId": "6.3",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 97,
+    "sourcePages": [
+      72,
+      97
+    ],
+    "labels": {
+      "locations": [
+        "The Locked Door",
+        "The Ledge",
+        "The Antenna",
+        "The Air Conditioner"
+      ],
+      "suspects": [
+        "Dr. Frankengreen",
+        "Agent Fuchsia",
+        "Technologist Turquoise",
+        "Computer Ethicist Lemon"
+      ],
+      "weapons": [
+        "A Diary",
+        "A Pigeon",
+        "A Flowerpot",
+        "An Ashtray"
+      ],
+      "motives": [
+        "Not afraid of heights or anything",
+        "Skydives to relax",
+        "Hate it, hate it, hate it",
+        "Twenty feet, fine, fifty feet, no"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 3,
+        "motives": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 2,
+        "locations": 0,
+        "motives": 2
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      132,
+      133
+    ],
+    "motivesOrderVerified": true,
+    "title": "There Must Be Something We're Overlooking",
+    "categoryLabels": {
+      "motives": "Heights"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 44,
+    "displayId": "6.4",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 99,
+    "sourcePages": [
+      98,
+      99
+    ],
+    "labels": {
+      "suspects": [
+        "CEO Indigo",
+        "Frankengreen's Monster",
+        "The Black Hat",
+        "Secretary Celadon"
+      ],
+      "locations": [
+        "The Operating Table",
+        "The Rooftop",
+        "The Giant Lever",
+        "The Huge Doors"
+      ],
+      "weapons": [
+        "An Erlenmeyer Flask",
+        "A Beaker",
+        "A Graduated Cylinder",
+        "A Volumetric Flask"
+      ],
+      "motives": [
+        "Whatever science makes bombs",
+        "Computer science, aka the cool one",
+        "The science of making money, baby",
+        "Revengology"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 3,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 0,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 0
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 0,
+      "motives": 3
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      133
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Murder Of An Assistant",
+    "categoryLabels": {
+      "motives": "Field of science"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 45,
+    "displayId": "6.5",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 101,
+    "sourcePages": [
+      100,
+      101
+    ],
+    "labels": {
+      "locations": [
+        "The Sonic Oscillator",
+        "A Ufo Crash Site",
+        "A Desert Pad",
+        "A Crystal Shop"
+      ],
+      "suspects": [
+        "Mr. Grayman",
+        "Cultist Xanadu",
+        "Frankengreen's Monster",
+        "Supreme Master Cobalt"
+      ],
+      "weapons": [
+        "A Hypnotic Pocket Watch",
+        "A Deck Of Marot Cards",
+        "A Dowsing Rod",
+        "An \"Alien\" Artifact"
+      ],
+      "motives": [
+        "Groovy vibes",
+        "Easy money from suckers",
+        "Their hated enemy was here",
+        "If you heard it you wouldn't believe it"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      133
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Oldest Crime In The Newest Age",
+    "categoryLabels": {
+      "motives": "New Aegis"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 46,
+    "displayId": "6.6",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 103,
+    "sourcePages": [
+      102,
+      103
+    ],
+    "labels": {
+      "locations": [
+        "The Patio",
+        "The Courtyard",
+        "The Pool",
+        "The Fireplace"
+      ],
+      "suspects": [
+        "Dr. Frankengreen",
+        "CEO Indigo",
+        "Blackstone, Esq.",
+        "Double Doctor Dandelion"
+      ],
+      "weapons": [
+        "How I Murdered My Husband: An Idunnit",
+        "A Letter From The Monster",
+        "A Murder-Themed Card Game",
+        "A Family Portrait"
+      ],
+      "motives": [
+        "Deduction College",
+        "A Bahamanian degree mill",
+        "The world's most evil grad school",
+        "Doesn't have a degree"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 3,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 2,
+        "motives": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 3,
+        "motives": 0
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 1,
+      "motives": 3
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      133,
+      134
+    ],
+    "motivesOrderVerified": true,
+    "title": "Home Sweet Crime",
+    "categoryLabels": {
+      "motives": "College degree"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 47,
+    "displayId": "6.7",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 105,
+    "sourcePages": [
+      104,
+      105
+    ],
+    "labels": {
+      "locations": [
+        "The Secret Passage",
+        "The Elevator",
+        "The Long Hallway",
+        "The Big, Giant Door"
+      ],
+      "suspects": [
+        "Boss Charcoal",
+        "Stonemason Byzantine",
+        "Lab Tech Greige",
+        "Construction Worker Applecore"
+      ],
+      "weapons": [
+        "A Fire Poker",
+        "A Gear",
+        "A Heavy Candle",
+        "An Ordinary Brick"
+      ],
+      "motives": [
+        "It's got jewels on it",
+        "Know it, I stole it!",
+        "It's worth a lot of money",
+        "Rumored to have mystic powers"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 0,
+        "locations": 3,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 0,
+        "motives": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      134
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Murder Of Dr. Frankengreen's Monster",
+    "categoryLabels": {
+      "motives": "Skull of Noc"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 48,
+    "displayId": "6.8",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 107,
+    "sourcePages": [
+      106,
+      107
+    ],
+    "labels": {
+      "suspects": [
+        "Secretary Celadon",
+        "Frankengreen's Monster",
+        "Technologist Turquoise",
+        "CEO Indigo"
+      ],
+      "locations": [
+        "The Pharmaceutical Cabinet",
+        "The Operating Table",
+        "The Electrical Device",
+        "The Lightning Rod"
+      ],
+      "weapons": [
+        "Bolt Cutters",
+        "Scalpel",
+        "A Lightning Bolt",
+        "A Ray Gun"
+      ],
+      "motives": [
+        "His top political enemy",
+        "His hated employer",
+        "His disappointing son",
+        "His archrival"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 2,
+        "motives": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 0,
+        "motives": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 1,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 2,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      134,
+      135
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Real Secret Of Dr. Frankengreen",
+    "categoryLabels": {
+      "motives": "Relationship"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 49,
+    "displayId": "7.1",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 109,
+    "sourcePages": [
+      108,
+      109
+    ],
+    "labels": {
+      "locations": [
+        "The Kitchen",
+        "The Fireplace",
+        "The Porch",
+        "The Bedroom"
+      ],
+      "suspects": [
+        "Mrs. Ruby",
+        "Elder Ash",
+        "Executive Producer Steel",
+        "Miss Saffron"
+      ],
+      "weapons": [
+        "A Skeleton Arm",
+        "A Copy of Murdle Jr.",
+        "A Poisoned Gingerbread Man",
+        "An Oven"
+      ],
+      "motives": [
+        "Making things disappear",
+        "Potion brewing (specifically alcohol)",
+        "Money magick",
+        "Petting animal familiars"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 1,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 3,
+        "motives": 3
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 3,
+      "locations": 2,
+      "motives": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      135
+    ],
+    "motivesOrderVerified": true,
+    "title": "Tread Gingerly If You Like The Taste Of Living",
+    "categoryLabels": {
+      "motives": "Magick specialties"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 50,
+    "displayId": "7.2",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 111,
+    "sourcePages": [
+      110,
+      111
+    ],
+    "labels": {
+      "suspects": [
+        "Agent Ink",
+        "The Crystal Goddess",
+        "Herbalist Onyx",
+        "Mx. Tangerine"
+      ],
+      "locations": [
+        "The Outdoor Meditation Space",
+        "The Giant Safe",
+        "The Rooftop Bar",
+        "The Bookshelves"
+      ],
+      "weapons": [
+        "A Vial of Red Liquid",
+        "A Broom",
+        "The Magick Grimoire",
+        "The Skull of Golioc"
+      ],
+      "motives": [
+        "Essentially limitless",
+        "15 percent of what Gainsboro makes",
+        "A reasonable amount",
+        "Zero, but they'll shoplift"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 0,
+        "locations": 3,
+        "motives": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 2,
+        "motives": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 0,
+        "motives": 2
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 3,
+      "locations": 0,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      135
+    ],
+    "motivesOrderVerified": true,
+    "title": "It's Crystal Clear It's Murder!",
+    "categoryLabels": {
+      "motives": "Crystal budgets"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 51,
+    "displayId": "7.3",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 113,
+    "sourcePages": [
+      112,
+      113
+    ],
+    "labels": {
+      "suspects": [
+        "The Duchess of Vermillion",
+        "Crime Queen Caramel",
+        "Astrologer Azure",
+        "Black Cat Midnight Baby"
+      ],
+      "locations": [
+        "The Magick Circle",
+        "The Central Fire",
+        "The Ancient Ruins",
+        "The Thick Forest"
+      ],
+      "weapons": [
+        "A Cauldron",
+        "A Rock",
+        "A Tiny Demonic Spirit",
+        "Hyperallergenic Oil"
+      ],
+      "motives": [
+        "Security, also horoscopes",
+        "Second-in-command",
+        "The leader",
+        "The treasurer"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 1,
+        "motives": 1
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 2,
+        "motives": 0
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 2
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 1,
+      "motives": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      135,
+      136
+    ],
+    "motivesOrderVerified": true,
+    "title": "Take Coven: We're Being Attacked!",
+    "categoryLabels": {
+      "motives": "Coven jobs"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 52,
+    "displayId": "7.4",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 115,
+    "sourcePages": [
+      114,
+      115
+    ],
+    "labels": {
+      "locations": [
+        "The Dark Woods",
+        "The Bookcases",
+        "The Wine Cellar",
+        "A Nice Table and Chairs"
+      ],
+      "suspects": [
+        "High Alchemist Raven",
+        "Archeologist Ecru",
+        "Superfan Smoky",
+        "Agent Fuchsia"
+      ],
+      "weapons": [
+        "A Red Herring",
+        "The Magick Grimoire",
+        "A Pointy Hat",
+        "A Hex"
+      ],
+      "motives": [
+        "Gainsboro's Down and Dusty",
+        "Murdle: The School of Mystery",
+        "The Ultimate S.P.Y. Manual",
+        "How I Murdered My Husband"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 0,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 2,
+        "motives": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 3,
+        "motives": 2
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 0,
+      "locations": 1,
+      "motives": 3
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      136
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Mystery Book Club Mystery",
+    "categoryLabels": {
+      "motives": "Favorite books"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 53,
+    "displayId": "7.5",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 117,
+    "sourcePages": [
+      116,
+      117
+    ],
+    "labels": {
+      "locations": [
+        "The Dark Woods",
+        "The Sleeping Cells",
+        "The Garden",
+        "The Chapel"
+      ],
+      "suspects": [
+        "Bishop Azure",
+        "Mother Mauve",
+        "Deacon Verdigris",
+        "Sister Lapis"
+      ],
+      "weapons": [
+        "An Empty Bottle",
+        "A Holy Relic",
+        "A Poster of Major Red",
+        "The Skull of Golioc"
+      ],
+      "motives": [
+        "Their enemies will suffer",
+        "Buying nice things is fun",
+        "Will say whatever they need to",
+        "Might makes right"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 3,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 0,
+        "motives": 0
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 2,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 3,
+      "locations": 3,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      136
+    ],
+    "motivesOrderVerified": true,
+    "title": "Stop This Nunsense",
+    "categoryLabels": {
+      "motives": "Religious beliefs"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 54,
+    "displayId": "7.6",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 119,
+    "sourcePages": [
+      118,
+      119
+    ],
+    "labels": {
+      "locations": [
+        "The Cafeteria",
+        "The Pond",
+        "The Dark Woods",
+        "The Tv Room"
+      ],
+      "suspects": [
+        "Wizard Brownbeard",
+        "Silverton The Legend",
+        "Viscount Eminence",
+        "A-List Abalone"
+      ],
+      "weapons": [
+        "A Magick Wand",
+        "A Puzzle Cube",
+        "Murdle: The Jigsaw Puzzle",
+        "The Marot"
+      ],
+      "motives": [
+        "Dated a few in college",
+        "They must be hunted!",
+        "Love and support them",
+        "Love them in movies"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 1,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 0,
+        "motives": 2
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      136,
+      137
+    ],
+    "motivesOrderVerified": true,
+    "title": "Untimely Death In The Old Folks Home",
+    "categoryLabels": {
+      "motives": "Witches"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 55,
+    "displayId": "7.7",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 74,
+    "sourcePages": [
+      73,
+      74
+    ],
+    "labels": {
+      "suspects": [
+        "Agent Ink",
+        "Tourist Tulip",
+        "Captain Slate",
+        "A-List Abalone"
+      ],
+      "locations": [
+        "The Moving Cave",
+        "The Giant Tree",
+        "The Evil Fortress",
+        "The Fetid Pool"
+      ],
+      "weapons": [
+        "A Shattered Snow Globe",
+        "The Skull of Golioc",
+        "A Hook Hand",
+        "An Atlas"
+      ],
+      "motives": [
+        "Flaxo",
+        "Smazo",
+        "Bloon",
+        "Katop"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 2,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 3,
+        "motives": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 3,
+        "locations": 1,
+        "motives": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 0,
+        "motives": 2
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 0,
+      "locations": 0,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      137
+    ],
+    "motivesOrderVerified": true,
+    "title": "Death In The Dark Woods",
+    "categoryLabels": {
+      "motives": "Magick words"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 56,
+    "displayId": "7.8",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 76,
+    "sourcePages": [
+      75,
+      76
+    ],
+    "labels": {
+      "locations": [
+        "An Indoor Bonfire",
+        "The Grand Piano",
+        "The Sacrificial Circle",
+        "The Pit"
+      ],
+      "suspects": [
+        "Dame Obsidian",
+        "Hedge Witch Skobeloff",
+        "Black Cat Midnight Baby",
+        "The Demon King"
+      ],
+      "weapons": [
+        "A Bag of Grave Dirt",
+        "The Magick Grimoire",
+        "The Skull of Golioc",
+        "A Cursed Dagger"
+      ],
+      "motives": [
+        "For treats",
+        "Because they loved dressing up",
+        "To create a publicity stunt",
+        "To scare people away"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 2,
+        "motives": 0
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 1,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 1,
+      "weapons": 2,
+      "locations": 3,
+      "motives": 3
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      137,
+      138
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Secret Of The Witches Coven",
+    "categoryLabels": {},
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 57,
+    "displayId": "8.1",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 77,
+    "sourcePages": [
+      77
+    ],
+    "labels": {
+      "suspects": [
+        "Art Critic Windsor",
+        "Curator Coppertone",
+        "Mayor Honey"
+      ],
+      "locations": [
+        "A Giant Stuffed Scarecrow",
+        "A Big Pumpkin Pie",
+        "A Model of the Harvest Festival"
+      ],
+      "weapons": [
+        "A Jack-o-Lantern",
+        "The Skull of Eseth",
+        "A Scythe"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      138
+    ],
+    "motivesOrderVerified": true,
+    "title": "Hell In The Harvest Room",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 58,
+    "displayId": "8.2",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 79,
+    "sourcePages": [
+      78,
+      79
+    ],
+    "labels": {
+      "suspects": [
+        "Agent Ink",
+        "Dame Obsidian",
+        "Ex-Husband Earthtone",
+        "Woodsman Veridian"
+      ],
+      "locations": [
+        "Dame Obsidian's Actual Bookcase",
+        "Dame Obsidian's Furnace",
+        "The Balcony Overlook",
+        "Dame Obsidian's Ex-Husband's Coffin"
+      ],
+      "weapons": [
+        "A Typewriter",
+        "Irratino's Secret Novel: Volume 2",
+        "The Skull Of Nasem",
+        "A Carbon Monoxide Detector"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 3
+      },
+      {
+        "suspects": 1,
+        "weapons": 1,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 0
+      },
+      {
+        "suspects": 3,
+        "weapons": 2,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 0,
+      "locations": 0
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      138
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Ordeal In The Obsidian Room",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 59,
+    "displayId": "8.3",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 81,
+    "sourcePages": [
+      80,
+      81
+    ],
+    "labels": {
+      "locations": [
+        "An Insurance Desk",
+        "A Piece Of The Iceberg",
+        "A Giant Map Wall",
+        "The Fire Escape"
+      ],
+      "suspects": [
+        "Insurance Agent Isabelline",
+        "Sailor Aero",
+        "Docent Windsor",
+        "Admiral Navy"
+      ],
+      "weapons": [
+        "A Fire Extinguisher",
+        "The Skull of Rewe",
+        "A History of Sea Legends",
+        "An Ancient Anchor"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 3,
+        "locations": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 3
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 2,
+      "locations": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      138
+    ],
+    "motivesOrderVerified": true,
+    "title": "Death from the Deep Dark Depths: The Exhibit",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 60,
+    "displayId": "8.4",
+    "size": 3,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations"
+    ],
+    "gridPage": 82,
+    "sourcePages": [
+      82
+    ],
+    "labels": {
+      "suspects": [
+        "Comrade Champagne",
+        "Janitor Salmon",
+        "Lady Violet"
+      ],
+      "locations": [
+        "A Statue of the Iron Tsar",
+        "The Portrait of Major Red",
+        "The Big War Board"
+      ],
+      "weapons": [
+        "A Red Banana",
+        "The Big Red Book",
+        "The Skull of Dennivet"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 2
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 1
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      138,
+      139
+    ],
+    "motivesOrderVerified": true,
+    "title": "Death In The Drakonia Room",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid and item cards"
+  },
+  {
+    "id": 61,
+    "displayId": "8.5",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 84,
+    "sourcePages": [
+      83,
+      84
+    ],
+    "labels": {
+      "locations": [
+        "A Model Of The Temple",
+        "The Vine Corner",
+        "A Giant Stone Door",
+        "The Temple Guard Teal Costume"
+      ],
+      "suspects": [
+        "Archeologist Ecru",
+        "Midnight III",
+        "Mrs. Ruby",
+        "Temple Guard Teal"
+      ],
+      "weapons": [
+        "An Ancient Text",
+        "The Skull of Ot",
+        "A Machete",
+        "A Television Camera"
+      ],
+      "motives": [
+        "Being on TV",
+        "All the wonderful stuff to steal",
+        "Getting paid",
+        "The opening weekend gross"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 0,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 3,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 2,
+        "motives": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 1,
+        "motives": 2
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      139
+    ],
+    "motivesOrderVerified": true,
+    "title": "Terror In The Temple Room",
+    "categoryLabels": {
+      "motives": "Memory"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 62,
+    "displayId": "8.6",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 86,
+    "sourcePages": [
+      85,
+      86
+    ],
+    "labels": {
+      "locations": [
+        "A Computer Terminal",
+        "The Electrical Panel",
+        "A Model of TekTopia",
+        "A Slab"
+      ],
+      "suspects": [
+        "Streamer Infrared",
+        "Lab Tech Greige",
+        "Frankengreen's Monster",
+        "Vice President Mauve"
+      ],
+      "weapons": [
+        "The Skull Of Noc",
+        "A Bust Of CEO Indigo",
+        "A Deepfake Knife",
+        "A Computer Chip"
+      ],
+      "motives": [
+        "Can't turn them off/on",
+        "Knows a Mac from a PC",
+        "Can code (but poorly)",
+        "Techno-Magus level"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 0
+      },
+      {
+        "suspects": 1,
+        "weapons": 3,
+        "locations": 0,
+        "motives": 3
+      },
+      {
+        "suspects": 2,
+        "weapons": 0,
+        "locations": 2,
+        "motives": 2
+      },
+      {
+        "suspects": 3,
+        "weapons": 1,
+        "locations": 1,
+        "motives": 1
+      }
+    ],
+    "solution": {
+      "suspects": 3,
+      "weapons": 1,
+      "locations": 1,
+      "motives": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      139
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Biggest Victim Of The Future Is The Past",
+    "categoryLabels": {
+      "motives": "Techno-competence"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 63,
+    "displayId": "8.7",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 88,
+    "sourcePages": [
+      87,
+      88
+    ],
+    "labels": {
+      "locations": [
+        "A Huge Window",
+        "The Bathroom",
+        "A Big, Giant Cauldron",
+        "A Witch's Altar"
+      ],
+      "suspects": [
+        "Black Cat Midnight Baby",
+        "Crime Queen Caramel",
+        "Sister Lapis",
+        "Sociologist Umber"
+      ],
+      "weapons": [
+        "The Magick Grimoire",
+        "A Gingerbread House",
+        "The Skull of Golioc",
+        "A Poisoned Concoction"
+      ],
+      "motives": [
+        "Flarnbarg",
+        "Gogobell",
+        "Meow",
+        "Please"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 1,
+        "locations": 0,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 0,
+        "locations": 1,
+        "motives": 1
+      },
+      {
+        "suspects": 2,
+        "weapons": 2,
+        "locations": 3,
+        "motives": 3
+      },
+      {
+        "suspects": 3,
+        "weapons": 3,
+        "locations": 2,
+        "motives": 0
+      }
+    ],
+    "solution": {
+      "suspects": 0,
+      "weapons": 1,
+      "locations": 0,
+      "motives": 2
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      139,
+      140
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Death In Which Room?",
+    "categoryLabels": {
+      "motives": "Magick words"
+    },
+    "questions": {
+      "motives": "And?"
+    },
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  },
+  {
+    "id": 64,
+    "displayId": "8.8",
+    "size": 4,
+    "categories": [
+      "suspects",
+      "weapons",
+      "locations",
+      "motives"
+    ],
+    "gridPage": 90,
+    "sourcePages": [
+      89,
+      90
+    ],
+    "labels": {
+      "locations": [
+        "The Tea Room",
+        "The Gorgeous Courtyard",
+        "The Pigeon Coop",
+        "A Luxury Bathroom"
+      ],
+      "suspects": [
+        "Mrs. Ruby",
+        "Art Critic Windsor",
+        "Curator Coppertone",
+        "Archeologist Ecru"
+      ],
+      "weapons": [
+        "A Map of the Museum",
+        "A Flier Advertising the Exhibit",
+        "A Framed Portrait of the Dead Assistant",
+        "All Seven Skulls"
+      ],
+      "motives": [
+        "To kill an archrival",
+        "To steal the Seven Skulls",
+        "To prove their innocence",
+        "To shut down the museum"
+      ]
+    },
+    "assignments": [
+      {
+        "suspects": 0,
+        "weapons": 3,
+        "locations": 1,
+        "motives": 2
+      },
+      {
+        "suspects": 1,
+        "weapons": 2,
+        "locations": 2,
+        "motives": 0
+      },
+      {
+        "suspects": 2,
+        "weapons": 1,
+        "locations": 3,
+        "motives": 1
+      },
+      {
+        "suspects": 3,
+        "weapons": 0,
+        "locations": 0,
+        "motives": 3
+      }
+    ],
+    "solution": {
+      "suspects": 2,
+      "weapons": 1,
+      "locations": 3,
+      "motives": 1
+    },
+    "verification": "reviewed",
+    "solutionPages": [
+      140,
+      141
+    ],
+    "motivesOrderVerified": true,
+    "title": "The Remarkable Rooftop Reveal",
+    "categoryLabels": {},
+    "questions": {},
+    "assignmentsVerification": "reviewed",
+    "orderSource": "grid icons and solution table"
+  }
+]
