@@ -1,55 +1,24 @@
-# Murdle · Detective notebook
+# Murdle · Your casebook
 
-[Открыть сайт](https://milalucky.github.io/murdle/) · [Публичный репозиторий](https://github.com/milalucky/murdle)
+**[Open the website →](https://milalucky.github.io/murdle/)**
 
-Личный статический блокнот для двух детективов. Интерфейс на русском, названия вариантов Volume 1 — на английском. HTML, CSS и JavaScript без зависимостей и без серверной базы.
+A companion notebook for your Murdle books. Keep the paper pages clean while you track deductions, test theories and collect new words.
 
-## Что работает
+Choose your detective name and a book to get started:
 
-- **Murdle Volume 1:** 100 дел; 1250 оригинальных значков, подписи и проверка итоговых ответов по предоставленному PDF. Дела 1–50: три категории по три варианта; 51–100: четыре категории по четыре варианта.
-- **Murdle: The Case of the Seven Skulls:** 64 дела с номерами 1.1–8.8, очищенные SVG-значки, английские подписи, проверка ответов и полные таблицы решений. Размер и категории соответствуют каждому делу. Старые ручные шаблоны доступны отдельно.
-- Цельная ступенчатая сетка, которая автоматически помещается по ширине экрана, включая iPhone в портретном режиме. Горизонтальной прокрутки и режима отдельных блоков нет. Нажатие: пусто → × → ✓ → пусто. Отмена последних 80 действий. Заметки.
-- Два независимых локальных профиля с изменяемыми именами. Сохранение сеток, ответов и слов. Проверка итогового ответа; по кнопке «Подсказка: где ошибка?» выделяются ошибочные категории. Показ решения заполняет всю сетку и выделяет правильные итоговые варианты. Это отдельный режим просмотра: собственные отметки и ответы не перезаписываются. Можно вернуться к своей сетке и зафиксировать ответ без проверки.
-- Словарь по делу/книге/всем книгам, поиск, редактирование, контекст, отметка «выучено».
-- Ручное добавление английского слова и перевода. Встроенный переводчик удалён; слова не отправляются внешним сервисам.
-- Экспорт текущей выборки слов в TSV и копирование для импорта в Quizlet. Это не автоматическая синхронизация аккаунта Quizlet.
-- JSON-резервная копия обоих профилей и восстановление с проверкой формата и подтверждением замены. Повреждённое сохранение не перезаписывается автоматически.
-- Обмен завершёнными делами через JSON и сравнение ответов; чужой файл не заменяет свой прогресс. Можно сравнить завершённые дела двух локальных профилей.
+- **Murdle Volume 1** — 100 cases.
+- **Murdle: The Case of the Seven Skulls** — 64 cases across eight adventures.
 
-Прогресс хранится в `localStorage` текущего браузера и адреса сайта. Он не синхронизируется между телефонами. После перехода с локального адреса на GitHub Pages перенесите его через резервную копию. Профили — удобное разделение, не защищённые аккаунты. При очистке браузера данные исчезнут, поэтому скачивайте копии в настройках.
+## Your investigation toolkit
 
-## Локальный запуск
+- A complete deduction grid that fits your phone, with crosses, ticks and undo.
+- Case notes, original English book hints and answer checking.
+- A solution view that preserves your own work.
+- A vocabulary notebook with manual definitions, examples and Quizlet-friendly export.
+- Separate detective profiles, result comparison and downloadable backups.
 
-Из этой папки:
+Read each mystery and its clues in your book; use the website as your notebook.
 
-```sh
-npm start
-```
+Your progress stays in the browser on your device. No account is required. Download a backup in Settings before clearing browser data or changing devices; progress does not sync automatically.
 
-Открыть <http://127.0.0.1:4173>. Нужен Python 3. Установка npm-пакетов не требуется. Открытие `index.html` через `file://` не подходит из-за загрузки JSON и ES-модулей.
-
-```sh
-npm test
-npm run build
-```
-
-`dist/` содержит только публикуемые файлы, без PDF, скриптов извлечения, тестов и документации. Оригинальный PDF не скопирован в проект. Полные страницы, загадки и сюжетные развязки не публикуются. По отдельной кнопке доступны оригинальные английские подсказки из раздела Hints: 100 для Volume 1 и 64 для Seven Skulls.
-
-## GitHub Pages
-
-1. Поместите **содержимое этой папки** в корень отдельного GitHub-репозитория, ветка `main`.
-2. В репозитории откройте **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-3. После push workflow `.github/workflows/pages.yml` проверит JavaScript и данные, соберёт `dist/` и опубликует сайт. URL будет в результате workflow.
-
-Все пути относительные, поэтому поддерживаются и `username.github.io`, и `username.github.io/repository/`. Настройка основана на [официальной инструкции GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
-
-Основной репозиторий: `milalucky/murdle` (public). GitHub Pages публикуется из ветки `main` через workflow выше.
-
-## Данные книги и развитие
-
-Схема и аудит извлечения: `scripts/ASSET_NOTES.md`. Кнопка проверки проверяет итоговые who/what/where/why. Полные таблицы соответствий из книги используются отдельно для показа заполненной сетки. Ключи находятся в статическом JSON: интерфейс скрывает спойлеры, но технически посетитель может прочитать исходный файл.
-
-Аудит второй книги: `scripts/SKULLS_NOTES.md`. Часть страниц с описаниями четвёртой категории отсутствует в скане: подписи восстановлены по таблицам решений и сопоставлены со значками сетки. Ключи сохранений остаются `skulls:<порядковый номер>`. При открытии поля из книги старый ручной шаблон сохраняется в архиве внутри того же дела.
-
-Официальная документация внешних сервисов:
-- [Импорт в Quizlet](https://help.quizlet.com/hc/en-us/articles/360029977151-Creating-sets-by-importing-content)
+An independent companion project, not an official Murdle product.

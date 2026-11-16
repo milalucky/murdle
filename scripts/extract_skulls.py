@@ -10,7 +10,7 @@ def build():
  result=[]
  for row in rows:
   c={k:v for k,v in row.items() if k!='labels'}
-  c['categories']=[{'id':cat,'label':row.get('categoryLabels',{}).get(cat,{'suspects':'Подозреваемые','weapons':'Оружие','locations':'Места','motives':'Мотивы'}[cat]),'question':row.get('questions',{}).get(cat,{'suspects':'Who?','weapons':'What?','locations':'Where?','motives':'Why?'}[cat]),'items':[{'label':label,'icon':f'assets/skulls/{row["id"]:03}-{cat}-{i}.svg'} for i,label in enumerate(row['labels'][cat])]} for cat in row['categories']]
+  c['categories']=[{'id':cat,'label':row.get('categoryLabels',{}).get(cat,{'suspects':'Suspects','weapons':'Weapons','locations':'Locations','motives':'Motives'}[cat]),'question':row.get('questions',{}).get(cat,{'suspects':'Who?','weapons':'What?','locations':'Where?','motives':'Why?'}[cat]),'items':[{'label':label,'icon':f'assets/skulls/{row["id"]:03}-{cat}-{i}.svg'} for i,label in enumerate(row['labels'][cat])]} for cat in row['categories']]
   for cat in c['categories']:
    assert len(cat['items'])==c['size']
    assert sorted(a[cat['id']] for a in c['assignments'])==list(range(c['size']))

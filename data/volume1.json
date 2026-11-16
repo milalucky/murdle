@@ -9,7 +9,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "The Amazing Aureolin",
@@ -27,7 +27,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Fork",
@@ -45,7 +45,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Enormous Bathroom",
@@ -98,7 +98,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Signor Emerald",
@@ -116,7 +116,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Bear Trap",
@@ -134,7 +134,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Cliffs",
@@ -187,7 +187,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Captain Slate",
@@ -205,7 +205,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Glass Of Poisoned Wine",
@@ -223,7 +223,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Rooftop Garden",
@@ -276,7 +276,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Vice President Mauve",
@@ -294,7 +294,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Imported Italian Knife",
@@ -312,7 +312,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Locomotive",
@@ -365,7 +365,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Officer Copper",
@@ -383,7 +383,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Vial Of Acid",
@@ -401,7 +401,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Parking Lot",
@@ -454,7 +454,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "General Coffee",
@@ -472,7 +472,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "Piano Wire",
@@ -490,7 +490,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Metal Fence",
@@ -543,7 +543,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Dame Obsidian",
@@ -561,7 +561,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Bottle Of Cyanide",
@@ -579,7 +579,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Manor House",
@@ -632,7 +632,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Dame Obsidian",
@@ -650,7 +650,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Magnifying Glass",
@@ -668,7 +668,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Spooky Attic",
@@ -721,7 +721,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Constable Copper",
@@ -739,7 +739,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Pair Of Gardening Shears",
@@ -757,7 +757,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Fountain",
@@ -810,7 +810,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Brother Brownstone",
@@ -828,7 +828,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Corkscrew",
@@ -846,7 +846,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Center Bar",
@@ -899,7 +899,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "General Coffee",
@@ -917,7 +917,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Ordinary Brick",
@@ -935,7 +935,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Courtyard",
@@ -988,7 +988,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Captain Slate",
@@ -1006,7 +1006,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Tote Bag",
@@ -1024,7 +1024,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Discount Rack",
@@ -1077,7 +1077,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Cowboy Raspberry",
@@ -1095,7 +1095,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Stabbin' Knife",
@@ -1113,7 +1113,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Saloon",
@@ -1166,7 +1166,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Baron Maroon",
@@ -1184,7 +1184,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Knife",
@@ -1202,7 +1202,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Investigation Institute",
@@ -1255,7 +1255,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Blackbeard",
@@ -1273,7 +1273,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Cannon",
@@ -1291,7 +1291,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Great Whirlpool",
@@ -1344,7 +1344,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Editor Ivory",
@@ -1362,7 +1362,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Antique Typewriter",
@@ -1380,7 +1380,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Balcony",
@@ -1433,7 +1433,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Bookie-Winner Gainsboro",
@@ -1451,7 +1451,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Antique Anchor",
@@ -1469,7 +1469,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Deck",
@@ -1522,7 +1522,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Philosopher Bone",
@@ -1540,7 +1540,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Bookie",
@@ -1558,7 +1558,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Stage",
@@ -1611,7 +1611,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Chancellor Tuscany",
@@ -1629,7 +1629,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Laptop",
@@ -1647,7 +1647,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "Hollywood",
@@ -1700,7 +1700,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Cosmonaut Bluski",
@@ -1718,7 +1718,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Deduction College Diploma",
@@ -1736,7 +1736,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Main Office",
@@ -1789,7 +1789,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Chairman Chalk",
@@ -1807,7 +1807,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Crowbar",
@@ -1825,7 +1825,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "An Oil Derrick",
@@ -1878,7 +1878,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Dame Obsidian",
@@ -1896,7 +1896,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Marble Bust",
@@ -1914,7 +1914,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Lobby",
@@ -1967,7 +1967,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Coach Raspberry",
@@ -1985,7 +1985,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Notary Stamp",
@@ -2003,7 +2003,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Actual Courtroom",
@@ -2056,7 +2056,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Judge Pine",
@@ -2074,7 +2074,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Baton",
@@ -2092,7 +2092,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Gallery",
@@ -2145,7 +2145,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Secretary Celadon",
@@ -2163,7 +2163,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Quarter-million-dollar Lawyer",
@@ -2181,7 +2181,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Spa",
@@ -2234,7 +2234,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Dr. Crimson",
@@ -2252,7 +2252,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Letter Opener",
@@ -2270,7 +2270,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "A Mail Truck",
@@ -2323,7 +2323,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Coach Raspberry",
@@ -2341,7 +2341,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Shovel",
@@ -2359,7 +2359,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Skull Rock",
@@ -2412,7 +2412,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Cryptozoologist Cloud",
@@ -2430,7 +2430,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Quasi-Perpetual Motion Machine",
@@ -2448,7 +2448,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "An Impossible Hedge Maze",
@@ -2501,7 +2501,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Sociologist Umber",
@@ -2519,7 +2519,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Cursed Dagger",
@@ -2537,7 +2537,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Front Driveway",
@@ -2590,7 +2590,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Numerologist Night",
@@ -2608,7 +2608,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Hypnotic Pocket Watch",
@@ -2626,7 +2626,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Book Ladder",
@@ -2679,7 +2679,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Lady Violet",
@@ -2697,7 +2697,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Cauldron",
@@ -2715,7 +2715,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Central Fire",
@@ -2768,7 +2768,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Vice President Mauve",
@@ -2786,7 +2786,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Brain in a Jar",
@@ -2804,7 +2804,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Rooftop",
@@ -2857,7 +2857,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Inspector Irratino",
@@ -2875,7 +2875,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Crystal Skull",
@@ -2893,7 +2893,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Grand Entrance",
@@ -2946,7 +2946,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Sir Rulean",
@@ -2964,7 +2964,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Skeleton Arm",
@@ -2982,7 +2982,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Columbarium",
@@ -3035,7 +3035,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Assistant Applegreen",
@@ -3053,7 +3053,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Selenite Wand",
@@ -3071,7 +3071,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Barracks",
@@ -3124,7 +3124,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Mx. Tangerine",
@@ -3142,7 +3142,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "Poisoned Rum",
@@ -3160,7 +3160,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Captain's Quarters",
@@ -3213,7 +3213,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Father Mango",
@@ -3231,7 +3231,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Old Sword",
@@ -3249,7 +3249,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "A Chain Restaurant",
@@ -3302,7 +3302,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Brother Brownstone",
@@ -3320,7 +3320,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Ouija Board",
@@ -3338,7 +3338,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Grounds",
@@ -3391,7 +3391,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Lord Lavender",
@@ -3409,7 +3409,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Poisoned Muffin",
@@ -3427,7 +3427,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Grand Entrance",
@@ -3480,7 +3480,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "The Duke Of Vermillion",
@@ -3498,7 +3498,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Laptop",
@@ -3516,7 +3516,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Clock Room",
@@ -3569,7 +3569,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "The Amazing Aureolin",
@@ -3587,7 +3587,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Quasi-Perpetual Motion Machine",
@@ -3605,7 +3605,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Grounds",
@@ -3658,7 +3658,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Sister Lapis",
@@ -3676,7 +3676,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Butter Knife",
@@ -3694,7 +3694,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Parking Lot",
@@ -3747,7 +3747,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Chancellor Tuscany",
@@ -3765,7 +3765,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "Poisoned Hot Chocolate",
@@ -3783,7 +3783,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Pingpong Room",
@@ -3836,7 +3836,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Earl Grey",
@@ -3854,7 +3854,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Toxic Program",
@@ -3872,7 +3872,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Stage",
@@ -3925,7 +3925,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Editor Ivory",
@@ -3943,7 +3943,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Spare Tire",
@@ -3961,7 +3961,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Screen",
@@ -4014,7 +4014,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Admiral Navy",
@@ -4032,7 +4032,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Toxic Blowfish",
@@ -4050,7 +4050,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Deck",
@@ -4103,7 +4103,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Mx. Tangerine",
@@ -4121,7 +4121,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Old Sword",
@@ -4139,7 +4139,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Dead Woods",
@@ -4192,7 +4192,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Philosopher Bone",
@@ -4210,7 +4210,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Rock",
@@ -4228,7 +4228,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Flooded Pews",
@@ -4281,7 +4281,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Chancellor Tuscany",
@@ -4299,7 +4299,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Prayer Candle",
@@ -4317,7 +4317,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Ancient Ruins",
@@ -4370,7 +4370,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Baron Maroon",
@@ -4388,7 +4388,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Rock",
@@ -4406,7 +4406,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Light Itself",
@@ -4459,7 +4459,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Astrologer Azure",
@@ -4481,7 +4481,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Cauldron",
@@ -4503,7 +4503,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Weird Shack",
@@ -4525,7 +4525,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Rob The Victim",
@@ -4594,7 +4594,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Numerologist Night",
@@ -4616,7 +4616,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Dowsing Rod",
@@ -4638,7 +4638,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Grand Chateau",
@@ -4660,7 +4660,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Prove They're Tough",
@@ -4729,7 +4729,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Cryptozoologist Cloud",
@@ -4751,7 +4751,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Heavy Candle",
@@ -4773,7 +4773,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Gnarled Tree",
@@ -4795,7 +4795,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Scare A Bear Away",
@@ -4864,7 +4864,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Vice President Mauve",
@@ -4886,7 +4886,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Ordinary Brick",
@@ -4908,7 +4908,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Docks",
@@ -4930,7 +4930,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Avenge Their Father",
@@ -4999,7 +4999,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Mayor Honey",
@@ -5021,7 +5021,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Poisonous Spider",
@@ -5043,7 +5043,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Ancient Ruins",
@@ -5065,7 +5065,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Rob The Victim",
@@ -5134,7 +5134,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Mister Shadow",
@@ -5156,7 +5156,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "Yarn",
@@ -5178,7 +5178,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The New Development",
@@ -5200,7 +5200,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Steal an Idea",
@@ -5269,7 +5269,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Father Mango",
@@ -5291,7 +5291,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Antique Flintlock",
@@ -5313,7 +5313,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Choir Loft",
@@ -5335,7 +5335,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "Because They Were Becoming Their Parents",
@@ -5404,7 +5404,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Viscount Eminence",
@@ -5426,7 +5426,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "Poisoned Tea",
@@ -5448,7 +5448,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Lookout Tower",
@@ -5470,7 +5470,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Protect A Secret",
@@ -5539,7 +5539,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Bookie-Winner Gainsboro",
@@ -5561,7 +5561,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Commemorative Pen",
@@ -5583,7 +5583,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Engine Room",
@@ -5605,7 +5605,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "By The Order Of A Cult",
@@ -5674,7 +5674,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Comrade Champagne",
@@ -5696,7 +5696,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Aluminum Pipe",
@@ -5718,7 +5718,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Meeting House",
@@ -5740,7 +5740,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "By The Order Of A Cult",
@@ -5809,7 +5809,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Mister Shadow",
@@ -5831,7 +5831,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Axe",
@@ -5853,7 +5853,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Dead Woods",
@@ -5875,7 +5875,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Close a Business Deal",
@@ -5944,7 +5944,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Former Mayor Honey",
@@ -5966,7 +5966,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Fork",
@@ -5988,7 +5988,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "A Used Car Lot",
@@ -6010,7 +6010,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "For Money",
@@ -6079,7 +6079,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Father Mango",
@@ -6101,7 +6101,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A String Of Prayer Beads",
@@ -6123,7 +6123,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Courtyard",
@@ -6145,7 +6145,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Avenge Their Father",
@@ -6214,7 +6214,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Dean Glaucous",
@@ -6236,7 +6236,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Crystal Skull",
@@ -6258,7 +6258,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Bookstore",
@@ -6280,7 +6280,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Prove A Point",
@@ -6349,7 +6349,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Dean Glaucous",
@@ -6371,7 +6371,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Marble Bust",
@@ -6393,7 +6393,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Chancellor's Office",
@@ -6415,7 +6415,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "For Political Purposes",
@@ -6484,7 +6484,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "President Amaranth",
@@ -6506,7 +6506,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Political Treatise",
@@ -6528,7 +6528,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Ancient Ruins",
@@ -6550,7 +6550,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Stop The Revolution",
@@ -6619,7 +6619,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Lord Lavender",
@@ -6641,7 +6641,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Bottle Of Wine",
@@ -6663,7 +6663,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "Avalon",
@@ -6685,7 +6685,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "Because It Was Logical",
@@ -6754,7 +6754,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Coach Raspberry",
@@ -6776,7 +6776,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Air Tank",
@@ -6798,7 +6798,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Ancient Ruins",
@@ -6820,7 +6820,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Get Revenge",
@@ -6889,7 +6889,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Mister Shadow",
@@ -6911,7 +6911,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "The Ace Of Spades",
@@ -6933,7 +6933,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Piano Room",
@@ -6955,7 +6955,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Steal An Idea",
@@ -7024,7 +7024,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Babyface Blue",
@@ -7046,7 +7046,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Scimitar",
@@ -7068,7 +7068,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "A Metal Fence",
@@ -7090,7 +7090,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Steal An Idea",
@@ -7159,7 +7159,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Uncle Midnight",
@@ -7181,7 +7181,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Selenite Wand",
@@ -7203,7 +7203,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "A Kitschy Restaurant",
@@ -7225,7 +7225,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "While Trippin' Out",
@@ -7294,7 +7294,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Supreme Master Cobalt",
@@ -7316,7 +7316,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Crystal Dagger",
@@ -7338,7 +7338,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Sage Section",
@@ -7360,7 +7360,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "For Money",
@@ -7429,7 +7429,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Coach Raspberry",
@@ -7451,7 +7451,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Wall Knickknack",
@@ -7473,7 +7473,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Kitchen",
@@ -7495,7 +7495,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Prove A Point",
@@ -7564,7 +7564,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Secretary Celadon",
@@ -7586,7 +7586,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Pseudo-Scientific Apparatus",
@@ -7608,7 +7608,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Crater",
@@ -7630,7 +7630,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "As A Scientific Experiment",
@@ -7699,7 +7699,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Mister Shadow",
@@ -7721,7 +7721,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Giant Bone",
@@ -7743,7 +7743,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "A Big Machine",
@@ -7765,7 +7765,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "For Money",
@@ -7834,7 +7834,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Executive Producer Steel",
@@ -7856,7 +7856,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Botox Needle",
@@ -7878,7 +7878,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "Midnight Movie Studios",
@@ -7900,7 +7900,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Prove They're Tough",
@@ -7969,7 +7969,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Midnight III",
@@ -7991,7 +7991,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Rare Vase",
@@ -8013,7 +8013,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Basement Bar",
@@ -8035,7 +8035,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Finish Their Movie",
@@ -8104,7 +8104,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Boss Charcoal",
@@ -8126,7 +8126,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Award",
@@ -8148,7 +8148,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Bar",
@@ -8170,7 +8170,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Create A Diversion",
@@ -8239,7 +8239,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Pearl, AGE",
@@ -8261,7 +8261,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Ritual Dagger",
@@ -8283,7 +8283,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Projection Booth",
@@ -8305,7 +8305,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To See If They Could",
@@ -8374,7 +8374,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Uncle Midnight",
@@ -8396,7 +8396,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Stranglin' Scarf",
@@ -8418,7 +8418,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Rooftop Gardens",
@@ -8440,7 +8440,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To See If They Could",
@@ -8509,7 +8509,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Silverton The Legend",
@@ -8531,7 +8531,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Magnifying Glass",
@@ -8553,7 +8553,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Parking Lot",
@@ -8575,7 +8575,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Promote A Movie",
@@ -8644,7 +8644,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Mx. Tangerine",
@@ -8666,7 +8666,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Fire Extinguisher",
@@ -8688,7 +8688,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Greek Theater",
@@ -8710,7 +8710,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "Because They Could",
@@ -8779,7 +8779,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Lord Lavender",
@@ -8801,7 +8801,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Giant Screenplay",
@@ -8823,7 +8823,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "Parking Lot A",
@@ -8845,7 +8845,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Protect A Secret",
@@ -8914,7 +8914,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Superfan Smoky",
@@ -8936,7 +8936,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Fire Extinguisher",
@@ -8958,7 +8958,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Water Tower Bar & Grill",
@@ -8980,7 +8980,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Renegotiate Their Contract",
@@ -9049,7 +9049,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Boss Charcoal",
@@ -9071,7 +9071,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A “Prop” Knife",
@@ -9093,7 +9093,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "Sound Stage A",
@@ -9115,7 +9115,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Take Over A Studio",
@@ -9184,7 +9184,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Cosmonaut Bluski",
@@ -9206,7 +9206,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Fire Extinguisher",
@@ -9228,7 +9228,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Closet",
@@ -9250,7 +9250,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To See If They Could",
@@ -9319,7 +9319,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Background Marengo",
@@ -9341,7 +9341,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Fork",
@@ -9363,7 +9363,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Bar",
@@ -9385,7 +9385,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Get Out Of A Bad Movie",
@@ -9454,7 +9454,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "The Duke Of Vermillion",
@@ -9476,7 +9476,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Hypnotic Pocket Watch",
@@ -9498,7 +9498,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Fifty-Car Garage",
@@ -9520,7 +9520,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Rob A Grave",
@@ -9589,7 +9589,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "A-List Abalone",
@@ -9611,7 +9611,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Film Strip",
@@ -9633,7 +9633,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Water Tower",
@@ -9655,7 +9655,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Save Face",
@@ -9724,7 +9724,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Agent Argyle",
@@ -9746,7 +9746,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Steel Knife",
@@ -9768,7 +9768,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Mail Room",
@@ -9790,7 +9790,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Prove A Point",
@@ -9859,7 +9859,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Agent Argyle",
@@ -9881,7 +9881,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Huge Pile Of Paperwork",
@@ -9903,7 +9903,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "A Partner's Office",
@@ -9925,7 +9925,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Get Revenge",
@@ -9994,7 +9994,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Assistant Applegreen",
@@ -10016,7 +10016,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Jug Of Whiskey",
@@ -10038,7 +10038,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Audience",
@@ -10060,7 +10060,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "On Behalf Of The Industry",
@@ -10129,7 +10129,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Bishop Azure",
@@ -10151,7 +10151,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Crystal Ball",
@@ -10173,7 +10173,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Secret Room",
@@ -10195,7 +10195,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Steal A Crystal",
@@ -10264,7 +10264,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Background Marengo",
@@ -10286,7 +10286,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Bottle Of Wine",
@@ -10308,7 +10308,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Bathroom",
@@ -10330,7 +10330,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "Because The Vibes Were Off",
@@ -10399,7 +10399,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Editor Ivory",
@@ -10421,7 +10421,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Letter Opener",
@@ -10443,7 +10443,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Bullpen",
@@ -10465,7 +10465,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Seize Power",
@@ -10534,7 +10534,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Midnight III",
@@ -10556,7 +10556,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Deck Of Marot Cards",
@@ -10578,7 +10578,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Luxury Theater",
@@ -10600,7 +10600,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Get The Recognition They Deserve",
@@ -10669,7 +10669,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Hack Blaxton",
@@ -10691,7 +10691,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Antique Typewriter",
@@ -10713,7 +10713,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "Bungalow 1",
@@ -10735,7 +10735,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "For Money",
@@ -10804,7 +10804,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Pearl, AGE",
@@ -10826,7 +10826,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Oil Drum",
@@ -10848,7 +10848,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "A Tarp",
@@ -10870,7 +10870,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Get A Promotion",
@@ -10939,7 +10939,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Midnight I",
@@ -10961,7 +10961,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "A Crowbar",
@@ -10983,7 +10983,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "An Oil Derrick",
@@ -11005,7 +11005,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Found A Studio",
@@ -11074,7 +11074,7 @@
       "categories": [
         {
           "id": "suspects",
-          "label": "Подозреваемые",
+          "label": "Suspects",
           "items": [
             {
               "label": "Midnight III",
@@ -11096,7 +11096,7 @@
         },
         {
           "id": "weapons",
-          "label": "Оружие",
+          "label": "Weapons",
           "items": [
             {
               "label": "An Award",
@@ -11118,7 +11118,7 @@
         },
         {
           "id": "locations",
-          "label": "Места",
+          "label": "Locations",
           "items": [
             {
               "label": "The Stage",
@@ -11140,7 +11140,7 @@
         },
         {
           "id": "motives",
-          "label": "Мотивы",
+          "label": "Motives",
           "items": [
             {
               "label": "To Hold On To Power",

@@ -205,7 +205,7 @@ for n,cats in labels.items():
  case={'id':n,'title':title.title().replace("'T", "'t").replace("’T", "’t"),'size':size,'categories':[], 'solution':SOLUTION_KEYS[n],'sourcePages':list(range(start(n)+1,start(n)+1+(2 if size==3 else 4))), 'verification':'verified'}
  for cat in ['suspects','weapons','locations','motives']:
   if cat not in cats:continue
-  case['categories'].append({'id':cat,'label':{'suspects':'Подозреваемые','weapons':'Оружие','locations':'Места','motives':'Мотивы'}[cat],'items':[{'label':value.replace('Ufo','UFO').replace('Dvd','DVD').replace('Adr','ADR'),'icon':f'assets/icons/{n:03}-{cat}-{i}.png'} for i,value in enumerate(cats[cat])]})
+  case['categories'].append({'id':cat,'label':{'suspects':'Suspects','weapons':'Weapons','locations':'Locations','motives':'Motives'}[cat],'items':[{'label':value.replace('Ufo','UFO').replace('Dvd','DVD').replace('Adr','ADR'),'icon':f'assets/icons/{n:03}-{cat}-{i}.png'} for i,value in enumerate(cats[cat])]})
  case['assignments']=ASSIGNMENTS[str(n)]
  case['assignmentsVerification']='reviewed'
  for cat in case['categories']:
