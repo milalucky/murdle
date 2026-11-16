@@ -14,7 +14,7 @@ Choose your detective name and a book to get started:
 - A complete deduction grid that fits your phone, with crosses, ticks and undo.
 - Case notes, original English book hints and answer checking.
 - A solution view that preserves your own work.
-- Separate detective profiles, result comparison and downloadable backups.
+- Separate detective profiles and downloadable backups.
 
 Read each mystery and its clues in your book; use the website as your notebook.
 
