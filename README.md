@@ -11,6 +11,7 @@ Choose your detective name and a book to get started:
 
 ## Your investigation toolkit
 
+- Three themes: Classic, The Case File and After Hours. Your choice is saved on this device.
 - A complete deduction grid that fits your phone, with crosses, ticks and undo.
 - Case notes, original English book hints and answer checking.
 - Original case endings, revealed after a correct answer or when you reveal the solution.
